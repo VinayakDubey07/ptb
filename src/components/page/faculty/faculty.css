@@ -1,0 +1,8 @@
+.flexxrow {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  padding-top: 50px;
+  justify-content: space-around;
+  /* height: 0vh; */
+}

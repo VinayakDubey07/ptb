@@ -1,0 +1,29 @@
+.profile {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+
+}
+
+
+
+.profile img {
+    justify-content: center;
+    align-self: center;
+    height: 10rem;
+    width: 10rem;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.profile h2{
+    justify-content: center;
+    margin: 2rem;
+}
+
+.details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+    column-gap: 2rem;
+    
+}
